@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Cappucino</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>cappucino.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Americano</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>americano.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Espresso</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>espresso.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Ristretto</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>ristretto.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Macchiato</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>macchiato.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Café Helado</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>cafeHelado.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Café Bombón</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>cafeBombon.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+	<dict>
+		<key>name</key>
+		<string>Café leche y leche</string>
+		<key>photoDetail</key>
+		<string>cafeHeladoDetail.png</string>
+		<key>photoTable</key>
+		<string>cafeLecheyLeche.png</string>
+		<key>steps</key>
+		<array>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+			<string>Lorem ipsum dolor sit amet triki triki bum bum grijander de todos los santos y demas...</string>
+		</array>
+	</dict>
+	
+	
+	
+
+</array>
+</plist>

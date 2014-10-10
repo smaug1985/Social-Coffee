@@ -1,0 +1,31 @@
+label1 = "Enter";
+label2 = "Post";
+
+clear = "Clear";
+post = "Post";
+
+recipe = "Recipes";
+dibujos = "Drawings";
+location = "Location";
+photo = "Photo";
+more = "More";
+less = "Less";
+icafe = "iCafé";
+worldCafe = "World Cafe";
+
+cafe = "Are you coming  for coffee?";
+inicio = "Initial";
+fin = "Final";
+fechaI = "Start Date";
+fechaF = "End Date";
+descriptionCafe = "Taking a  delicious coffee!!";
+apps = "Apps";
+
+northAmerica = "NorthAmerica";
+europe = "Europe";
+asia = "Asia";
+southAmerica = "SouthAmerica";
+africa = "Africa";
+oceania = "Oceania";
+worldCoffees = "WorldCafes";
+mainDescription = "blablablablablabablabblablablabla";

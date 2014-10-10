@@ -1,0 +1,206 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PhotoPicker */ = {
+		activeExec = 0;
+		executables = (
+			F9F939C3128850A5005CBFF7 /* PhotoPicker */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F9F939C3128850A5005CBFF7 /* PhotoPicker */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhotoPicker */;
+		codeSenseManager = F9F939D5128850FE005CBFF7 /* Code sense */;
+		executables = (
+			F9F939C3128850A5005CBFF7 /* PhotoPicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311095242;
+			PBXWorkspaceStateSaveDate = 311095242;
+		};
+		perUserProjectItems = {
+			F93FA54D128AF076002BDB25 /* PBXTextBookmark */ = F93FA54D128AF076002BDB25 /* PBXTextBookmark */;
+			F93FA54E128AF076002BDB25 /* PBXTextBookmark */ = F93FA54E128AF076002BDB25 /* PBXTextBookmark */;
+			F93FA54F128AF076002BDB25 /* PBXTextBookmark */ = F93FA54F128AF076002BDB25 /* PBXTextBookmark */;
+			F9F939DE128868AE005CBFF7 /* PBXTextBookmark */ = F9F939DE128868AE005CBFF7 /* PBXTextBookmark */;
+			F9F939DF128868AE005CBFF7 /* PBXTextBookmark */ = F9F939DF128868AE005CBFF7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F9F939D4128850FE005CBFF7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5341DF961098E39E0034B175 /* OverlayViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1248}}";
+			sepNavSelRange = "{3174, 0}";
+			sepNavVisRange = "{2111, 1185}";
+		};
+	};
+	5341DF971098E39E0034B175 /* OverlayViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 4056}}";
+			sepNavSelRange = "{10392, 0}";
+			sepNavVisRange = "{9925, 888}";
+		};
+	};
+	5363CC1B1003C330006CE070 /* MyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 2158}}";
+			sepNavSelRange = "{4286, 49}";
+			sepNavVisRange = "{4672, 1136}";
+		};
+	};
+	5363CC1C1003C330006CE070 /* MyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1925}";
+		};
+	};
+	5363CC251003C342006CE070 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 923}}";
+			sepNavSelRange = "{2554, 0}";
+			sepNavVisRange = "{0, 2039}";
+		};
+	};
+	F93FA54D128AF076002BDB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5363CC251003C342006CE070 /* AppDelegate.m */;
+		name = "AppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 2554;
+		rType = 0;
+		vrLen = 2039;
+		vrLoc = 0;
+	};
+	F93FA54E128AF076002BDB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5341DF961098E39E0034B175 /* OverlayViewController.h */;
+		name = "OverlayViewController.h: 72";
+		rLen = 0;
+		rLoc = 3174;
+		rType = 0;
+		vrLen = 1185;
+		vrLoc = 2111;
+	};
+	F93FA54F128AF076002BDB25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5363CC1B1003C330006CE070 /* MyViewController.m */;
+		name = "MyViewController.m: 114";
+		rLen = 49;
+		rLoc = 4286;
+		rType = 0;
+		vrLen = 1136;
+		vrLoc = 4672;
+	};
+	F9F939C3128850A5005CBFF7 /* PhotoPicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhotoPicker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F9F939D4128850FE005CBFF7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F9F939D5128850FE005CBFF7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F9F939DE128868AE005CBFF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5363CC1B1003C330006CE070 /* MyViewController.m */;
+		name = "MyViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 900;
+		vrLoc = 4203;
+	};
+	F9F939DF128868AE005CBFF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5341DF971098E39E0034B175 /* OverlayViewController.m */;
+		name = "OverlayViewController.m: 208";
+		rLen = 0;
+		rLoc = 7636;
+		rType = 0;
+		vrLen = 1087;
+		vrLoc = 2758;
+	};
+}

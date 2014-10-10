@@ -1,0 +1,32 @@
+label1 = "Einbiegen";
+label2 = "Post";
+
+clear = "Sauberkeit";
+post = "Post";
+
+
+recipe = "Rezepte";
+dibujos = "Zeichnungen";
+location = "Ort";
+photo = "Foto";
+more = "Mehr";
+less = "Weniger";
+icafe = "iCafé";
+worldCafe = "World Cafe";
+
+cafe = "Kommen Sie zum Kaffee?";
+inicio = "Erste";
+fin = "Final";
+fechaI = "Startdatum";
+fechaF = "Angebotsende";
+descriptionCafe = "Unter einem leckeren Kaffee!!";
+apps = "Apps";
+
+northAmerica = "Nordamerika";
+europe = "Europa";
+asia = "Asien";
+southAmerica = "Südamerika";
+africa = "Afrika";
+oceania = "Ozeanien";
+worldCoffees = "World Cafés";
+mainDescription = "blablablablablabablabblablablabla";

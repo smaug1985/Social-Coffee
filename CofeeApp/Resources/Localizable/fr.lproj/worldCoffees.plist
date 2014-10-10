@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>northAmericaBig.png</string>
+		<key>name</key>
+		<string>Amérique du Nord</string>
+		<key>description</key>
+		<string>Lorem ipsum bla bla bla</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>europeBig.png</string>
+		<key>name</key>
+		<string>L&apos;Europe</string>
+		<key>description</key>
+		<string>Lorem ipsum bla bla bla</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>asiaBig.png</string>
+		<key>name</key>
+		<string>Asie</string>
+		<key>description</key>
+		<string>Lorem ipsum bla bla bla</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>southAmericaBig.png</string>
+		<key>name</key>
+		<string>Amérique du Sud</string>
+		<key>description</key>
+		<string>Lorem ipsum bla bla bla</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>africaBig.png</string>
+		<key>name</key>
+		<string>Afrique</string>
+		<key>description</key>
+		<string>Lorem ipsum bla bla bla</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>oceaniaBig.png</string>
+		<key>name</key>
+		<string>Océanie</string>
+		<key>description</key>
+		<string>Lorem ipsum bla bla bla</string>
+	</dict>
+</array>
+</plist>

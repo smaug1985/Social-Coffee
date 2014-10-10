@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Online Blackjack</string>
+		<key>icon</key>
+		<string>cards.png</string>
+		<key>description</key>
+		<string>This is the description</string>
+		<key>link</key>
+		<string>http://itunes.apple.com/es/app/juego-online-blackjack/id404730992?mt=8</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Astrology for her</string>
+		<key>icon</key>
+		<string>Horoscopo.png</string>
+		<key>description</key>
+		<string>This is the description</string>
+		<key>link</key>
+		<string>http://itunes.apple.com/es/app/mi-horoscopo-y-tarot-del-dia/id403706549?mt=8</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Horóscopo Chino</string>
+		<key>icon</key>
+		<string>Chino.png</string>
+		<key>description</key>
+		<string>This is the description</string>
+		<key>link</key>
+		<string>http://itunes.apple.com/es/app/horoscopo-chino-2011/id406639018?mt=8</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Happy New Year</string>
+		<key>icon</key>
+		<string>Newyear.png</string>
+		<key>description</key>
+		<string>This is the description</string>
+		<key>link</key>
+		<string>http://itunes.apple.com/es/app/explendido-feliz-ano-nuevo/id406635278?mt=8</string>
+	</dict>
+</array>
+</plist>

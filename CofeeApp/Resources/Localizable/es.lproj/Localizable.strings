@@ -1,0 +1,32 @@
+label1 = "Entrar";
+label2 = "Publicar";
+
+clear = "Limpiar";
+post = "Publicar";
+
+
+recipe = "Recetas";
+dibujos = "Dibujos";
+location = "Localización";
+photo = "Foto";
+more = "Mas";
+less = "Menos";
+icafe = "iCafé";
+worldCafe = "Café Mundial";
+
+cafe = "¿Te vienes a tomar un café?";
+inicio = "Inicio";
+fin = "Fin";
+fechaI = "Fecha de inicio";
+fechaF = "Fecha de Fin";
+descriptionCafe = "Tomando un cafe delicioso!!";
+apps = "Apps";
+
+northAmerica = "Norteamérica";
+europe = "Europa";
+asia = "Asia";
+southAmerica = "Sudamérica";
+africa = "África";
+oceania = "Oceanía";
+worldCoffees = "Cafes del Mundo";
+mainDescription = "blablablablablabablabblablablabla";
